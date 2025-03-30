@@ -1,2 +1,2 @@
-# UML_Projeler
+# UML Projeler
 Patika OOP Eğitimi kapsamında yaptığım projeler
